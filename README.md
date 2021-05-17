@@ -17,7 +17,10 @@
 <img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen1.png" width="40%" height="40%"><img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen2.png" width="40%" height="40%"/>
 
 PREVIEW http://kotdev.inf.ua/images/newsapi1.gif
+
 PREVIEW http://kotdev.inf.ua/images/newsapi2.gif
+
 PREVIEW http://kotdev.inf.ua/images/newsapi3.gif
+
 PREVIEW http://kotdev.inf.ua/images/newsapi4.gif
 
