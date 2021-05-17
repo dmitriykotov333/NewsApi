@@ -14,7 +14,6 @@
    - #### Handling Different Screen Sizes (ConstraintLayout)
    - #### Material Dialogs
    - #### Fragment transition animations
+<img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen1.png" width="40%" height="40%"><img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen2.png" width="40%" height="40%"/>
 
- <img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen1.png">
-  <img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen2.png">
  
