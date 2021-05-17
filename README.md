@@ -15,3 +15,5 @@
    - #### Material Dialogs
    - #### Fragment transition animations
 
+ <img src="https://github.com/dmitriykotov333/NewsApi/blob/master/screen1.jpg">
+ 
